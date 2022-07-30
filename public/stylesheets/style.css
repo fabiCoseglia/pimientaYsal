@@ -1316,3 +1316,8 @@ a {
 .ps-hover-border-pale-blue:hover {
   border-color: #e7ffff !important;
 }
+
+/*cosillas**/
+html{
+  scroll-behavior: smooth;
+}

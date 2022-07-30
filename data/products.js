@@ -2,7 +2,7 @@ const products = [
     {
         id: 1,
         title: 'Carpaccio fresco',
-        description: 'Entrada Carpaccio de salmón con cítricos U$S 65.50',
+        description: 'Entrada Carpaccio de salmón con cítricos',
         price: 65.50
     },
     {
